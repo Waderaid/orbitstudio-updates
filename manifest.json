@@ -1,6 +1,5 @@
 {
   "version": "1.0.10",
-  "zip": "https://files.catbox.moe/7t3hfe.zip",
-  "sha256": "53eb942b4a931e7beba7d6af40443471e7d0bda34a4a0518aee49d05e2438c43",
-  "notes": "Four new Studio transitions (Blur dissolve, Whip pan, Barrel roll, Tiny planet); one-click shot templates (Orbit, Sky Flip, Clone Trail, Planet Invert); Motion ND; Speed Ramp 4x to 0.25x; on-device AI Auto Highlights and AI Grade; Movie Mixer auto-edit storyboard; Clip Sorter triage; Bullet Time subject tracking for the whole shot; GPU acceleration for AI via DirectML with CPU fallback."
+  "zip": "https://files.catbox.moe/0i20t9.zip",
+  "notes": "Four new Studio transitions (Blur dissolve, Whip pan, Barrel roll, Tiny planet); one-click shot templates (Orbit, Sky Flip, Clone Trail, Planet Invert); Motion ND; Speed Ramp 4x to 0.25x; on-device AI Auto Highlights and AI Grade; GPU acceleration for AI via DirectML with CPU fallback; DPI/layout hardening so nothing clips at 125-150% scaling."
 }
