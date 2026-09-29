@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "zip": "https://files.catbox.moe/bv7ggc.zip",
-  "notes": "Studio 360 editor (timeline, transitions, camera keyframes, titles, music); raw .360 support across six tools; Bullet Time; Nadir Patch (blur/mirror/darken); on-device AI subject tracking and captions; GPS telemetry repair."
+  "version": "1.0.10",
+  "zip": "https://files.catbox.moe/1srhx9.zip",
+  "notes": "Four new Studio transitions (Blur dissolve, Whip pan, Barrel roll, Tiny planet); one-click shot templates (Orbit, Sky Flip, Clone Trail, Planet Invert); Motion ND; Speed Ramp 4x to 0.25x; on-device AI Auto Highlights and AI Grade; GPU acceleration for AI via DirectML with CPU fallback."
 }
