@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "zip": "https://files.catbox.moe/3oqc5c.zip",
-  "sha256": "e703b5f8e7ecf88c61d38849c0f0b15b267504c1265bdbf6622bd8379e4418ef",
-  "size": 129745046,
-  "notes": "Player section, Convert thumbnails, 8K NVENC H.265 fallback"
+  "version": "1.0.15",
+  "zip": "https://files.catbox.moe/bo43nt.zip",
+  "sha256": "945a5cf51b6995e8b6331caa37c5dc6e17659972dcfbdb4554429c1980adb8e1",
+  "size": 64562064,
+  "notes": "Max2 stitching fix: crop-rebuilt EAC unwrap; Dual Fisheye mode removed"
 }
