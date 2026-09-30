@@ -1,5 +1,1 @@
-{
-  "version": "1.0.10",
-  "zip": "https://files.catbox.moe/0i20t9.zip",
-  "notes": "Four new Studio transitions (Blur dissolve, Whip pan, Barrel roll, Tiny planet); one-click shot templates (Orbit, Sky Flip, Clone Trail, Planet Invert); Motion ND; Speed Ramp 4x to 0.25x; on-device AI Auto Highlights and AI Grade; GPU acceleration for AI via DirectML with CPU fallback; DPI/layout hardening so nothing clips at 125-150% scaling."
-}
+{"notes":"360° stays 360°: utilities no longer flatten your GoPro footage — automatic EAC/dual-fisheye unwrap and 360° tag restore on Trim, Slow-mo, Hyperlapse, Stabilize, Color Grade, AI tools and more. Encoder choice in Utilities (Auto / NVIDIA GPU / CPU). Fixed: Bullet Time memory crash on 8K, ambisonic audio failures on GoPro files, GPS telemetry error reporting, and a smarter two-stage NVENC check with actionable driver advice.","sha256":"a72eb528b9958c8bd52f7afd1294a17ee8fe9b19658b5c6346491294c48125a7","version":"1.0.12","zip":"https://files.catbox.moe/g1kc6k.zip"}
