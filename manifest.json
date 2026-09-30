@@ -1,1 +1,7 @@
-{"version": "1.0.13", "zip": "https://files.catbox.moe/xlayuh.zip", "sha256": "b46521a8e35572fc5fd40d42435b6d03adfcaa993f8eced671b4006cc8dba760", "notes": "Fixes the GoPro .360 conversion failure (exit -22): the timecode data track no longer breaks the MP4 muxer \u2014 only the GPS telemetry track is preserved. Output folder is now write-tested before converting, so a bad path fails with a clear message. NVENC probe reports the real GPU error instead of a generic \"Conversion failed\"."}
+{
+  "version": "1.0.14",
+  "zip": "https://files.catbox.moe/3oqc5c.zip",
+  "sha256": "e703b5f8e7ecf88c61d38849c0f0b15b267504c1265bdbf6622bd8379e4418ef",
+  "size": 129745046,
+  "notes": "Player section, Convert thumbnails, 8K NVENC H.265 fallback"
+}
