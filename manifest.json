@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "zip": "https://files.catbox.moe/xd6v8m.zip",
-  "sha256": "6a58440b0e5d8447b67e8f002fd37dcd1cc914f583f709ef290fc714926612de",
-  "size": 173795838,
-  "notes": "AI Grade fix: frame file is now closed before the encoder opens it (was Permission denied on Windows); self-contained build, no .NET install needed; Player 360 3D controls; updater syncs tools/models and cleans old zips"
+  "version": "1.0.18",
+  "zip": "https://files.catbox.moe/v48v79.zip",
+  "sha256": "2469f1a54db09b78d3a6bc17ea9e66e232fcbfd046a7aec158d002670f118685",
+  "size": 173809697,
+  "notes": "Movie Mixer auto-frames 360 footage on the subject and never exports the whole panorama; GoPro Max2 stitching verified against a real .360 sample; Player 360 camera rebuilt with flat fallback; Studio playback timing fixes"
 }
