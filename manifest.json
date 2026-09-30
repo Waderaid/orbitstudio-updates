@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "zip": "https://files.catbox.moe/bo43nt.zip",
-  "sha256": "945a5cf51b6995e8b6331caa37c5dc6e17659972dcfbdb4554429c1980adb8e1",
-  "size": 64562064,
-  "notes": "Max2 stitching fix: crop-rebuilt EAC unwrap; Dual Fisheye mode removed"
+  "version": "1.0.16",
+  "zip": "https://files.catbox.moe/fmbljq.zip",
+  "sha256": "41435a66c47644012b6700e2bb336669ff15d5cbe99cb4c5274ba878e7a63a75",
+  "size": 173795536,
+  "notes": "Self-contained build (no .NET install needed); Player: fixed upside-down 360 playback, added drag-to-look 3D controls; updater installs video engine + AI models into the tools folder and cleans up old update zips"
 }
