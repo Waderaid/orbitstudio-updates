@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "zip": "https://files.catbox.moe/fmbljq.zip",
-  "sha256": "41435a66c47644012b6700e2bb336669ff15d5cbe99cb4c5274ba878e7a63a75",
-  "size": 173795536,
-  "notes": "Self-contained build (no .NET install needed); Player: fixed upside-down 360 playback, added drag-to-look 3D controls; updater installs video engine + AI models into the tools folder and cleans up old update zips"
+  "version": "1.0.17",
+  "zip": "https://files.catbox.moe/xd6v8m.zip",
+  "sha256": "6a58440b0e5d8447b67e8f002fd37dcd1cc914f583f709ef290fc714926612de",
+  "size": 173795838,
+  "notes": "AI Grade fix: frame file is now closed before the encoder opens it (was Permission denied on Windows); self-contained build, no .NET install needed; Player 360 3D controls; updater syncs tools/models and cleans old zips"
 }
