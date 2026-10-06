@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "zip": "https://files.catbox.moe/v48v79.zip",
-  "sha256": "2469f1a54db09b78d3a6bc17ea9e66e232fcbfd046a7aec158d002670f118685",
-  "size": 173809697,
-  "notes": "Movie Mixer auto-frames 360 footage on the subject and never exports the whole panorama; GoPro Max2 stitching verified against a real .360 sample; Player 360 camera rebuilt with flat fallback; Studio playback timing fixes"
+  "version": "1.0.19",
+  "zip": "https://files.catbox.moe/e9r77w.zip",
+  "sha256": "adf51d373a249f5185a538d0279fccd8be8629cf01a1425b4a427f7b79e20573",
+  "size": 173842324,
+  "notes": "AI upgrades: RIFE v4.26 frame interpolation (new Utilities card); 4x-UltraSharp v2 AI upscale + DeJPG AI denoise in Enhance; LaMa AI inpaint mode in Tripod Remover; subject detection moved from AGPL YOLOv8n to Apache-2.0 RF-DETR Nano"
 }
