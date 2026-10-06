@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "zip": "https://files.catbox.moe/e9r77w.zip",
-  "sha256": "adf51d373a249f5185a538d0279fccd8be8629cf01a1425b4a427f7b79e20573",
-  "size": 173842324,
-  "notes": "AI upgrades: RIFE v4.26 frame interpolation (new Utilities card); 4x-UltraSharp v2 AI upscale + DeJPG AI denoise in Enhance; LaMa AI inpaint mode in Tripod Remover; subject detection moved from AGPL YOLOv8n to Apache-2.0 RF-DETR Nano"
+  "version": "1.0.20",
+  "zip": "https://files.catbox.moe/8quggs.zip",
+  "sha256": "b61f4e7b980952d71d1142074bd8744345ad1e2938827d9ce21323e8975d6cee",
+  "size": 173846005,
+  "notes": "License fix: removed 4x-UltraSharp v2 (actually CC-BY-NC-SA-4.0, non-commercial) — AI Upscale now uses Real-ESRGAN x4plus (BSD-3-Clause), same 4x quality and 360 seam-safe tiling. CREDITS.txt corrected."
 }
