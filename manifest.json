@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "zip": "https://files.catbox.moe/0nzgz2.zip",
-  "sha256": "0fd03331233aad11cab60d0c0aeebeb5f4a2e1e0f3d8be0c0a3c64b939d97e20",
-  "size": 173868331,
-  "notes": "New: Smart search in the Library \u2014 describe the shot in words and the AI ranks your footage by meaning (EmbeddingGemma 2 on your GPU, ~1.5 GB model downloads once on first use). New: Similar button on every Movie Mixer card finds library shots like the selected one and adds them to the storyboard. Opt-in AI caption enrichment; per-library search index cached on disk."
+  "version": "1.0.22",
+  "zip": "https://files.catbox.moe/sa42kb.zip",
+  "sha256": "74d19cc9d5daad034ceb72e92ea194ae5ccf9e00a6c91874389e13896a595cc9",
+  "size": 173942959,
+  "notes": "New: Toolbox section — 20 new workflow tools (Quick Cut lossless, GIF/WebP maker, timelapse builder, snapshot gallery, subtitle burn-in, audio swap, batch rename, export presets, watch-folder auto-import, horizon leveler, rotate/flip, video scopes, telemetry extractor, long-exposure stack, metadata inspector, loudness report, duplicate-frame remover, reverse, deflicker, retime-to-duration). New: AI Lab section — 16 on-device AI tools (AI Auto-Chapters, Highlight Reel 2.0, AI Thumbnail Picker, AI Auto-Tagging, Describe-It Reel Builder, AI Transcription via faster-whisper, spoken-word search, AI near-duplicates, reframe score, mood LUTs, silence cutter, stabilization advisor, upscale A/B, smart 16:9 crop, scene summary, quality score, Best-of-Day). Library: star ratings, quality badges, hover zoom, breadcrumbs, drag-drop folders, more-like-this. Player: snapshots + chapters. Movie Mixer: people-first face-aware framing. Appearance: 3 themes, 6 accents, 4 text sizes, Ctrl+K palette, F1 shortcuts, toasts, splash screen."
 }
