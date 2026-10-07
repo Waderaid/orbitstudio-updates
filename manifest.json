@@ -1,7 +1,7 @@
 {
   "version": "1.0.22",
-  "zip": "https://files.catbox.moe/sa42kb.zip",
-  "sha256": "74d19cc9d5daad034ceb72e92ea194ae5ccf9e00a6c91874389e13896a595cc9",
-  "size": 173942959,
+  "zip": "https://files.catbox.moe/b46z8h.zip",
+  "sha256": "08f38637d418f3ec942b08946332c98701ec246843ab2df8bf74a7a5971834c1",
+  "size": 173943162,
   "notes": "New: Toolbox section — 20 new workflow tools (Quick Cut lossless, GIF/WebP maker, timelapse builder, snapshot gallery, subtitle burn-in, audio swap, batch rename, export presets, watch-folder auto-import, horizon leveler, rotate/flip, video scopes, telemetry extractor, long-exposure stack, metadata inspector, loudness report, duplicate-frame remover, reverse, deflicker, retime-to-duration). New: AI Lab section — 16 on-device AI tools (AI Auto-Chapters, Highlight Reel 2.0, AI Thumbnail Picker, AI Auto-Tagging, Describe-It Reel Builder, AI Transcription via faster-whisper, spoken-word search, AI near-duplicates, reframe score, mood LUTs, silence cutter, stabilization advisor, upscale A/B, smart 16:9 crop, scene summary, quality score, Best-of-Day). Library: star ratings, quality badges, hover zoom, breadcrumbs, drag-drop folders, more-like-this. Player: snapshots + chapters. Movie Mixer: people-first face-aware framing. Appearance: 3 themes, 6 accents, 4 text sizes, Ctrl+K palette, F1 shortcuts, toasts, splash screen."
 }
