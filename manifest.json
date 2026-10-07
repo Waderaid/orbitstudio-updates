@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "zip": "https://files.catbox.moe/8quggs.zip",
-  "sha256": "b61f4e7b980952d71d1142074bd8744345ad1e2938827d9ce21323e8975d6cee",
-  "size": 173846005,
-  "notes": "License fix: removed 4x-UltraSharp v2 (actually CC-BY-NC-SA-4.0, non-commercial) — AI Upscale now uses Real-ESRGAN x4plus (BSD-3-Clause), same 4x quality and 360 seam-safe tiling. CREDITS.txt corrected."
+  "version": "1.0.21",
+  "zip": "https://files.catbox.moe/0nzgz2.zip",
+  "sha256": "0fd03331233aad11cab60d0c0aeebeb5f4a2e1e0f3d8be0c0a3c64b939d97e20",
+  "size": 173868331,
+  "notes": "New: Smart search in the Library \u2014 describe the shot in words and the AI ranks your footage by meaning (EmbeddingGemma 2 on your GPU, ~1.5 GB model downloads once on first use). New: Similar button on every Movie Mixer card finds library shots like the selected one and adds them to the storyboard. Opt-in AI caption enrichment; per-library search index cached on disk."
 }
