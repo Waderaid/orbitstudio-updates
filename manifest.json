@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "zip": "https://files.catbox.moe/b46z8h.zip",
-  "sha256": "08f38637d418f3ec942b08946332c98701ec246843ab2df8bf74a7a5971834c1",
-  "size": 173943162,
-  "notes": "New: Toolbox section — 20 new workflow tools (Quick Cut lossless, GIF/WebP maker, timelapse builder, snapshot gallery, subtitle burn-in, audio swap, batch rename, export presets, watch-folder auto-import, horizon leveler, rotate/flip, video scopes, telemetry extractor, long-exposure stack, metadata inspector, loudness report, duplicate-frame remover, reverse, deflicker, retime-to-duration). New: AI Lab section — 16 on-device AI tools (AI Auto-Chapters, Highlight Reel 2.0, AI Thumbnail Picker, AI Auto-Tagging, Describe-It Reel Builder, AI Transcription via faster-whisper, spoken-word search, AI near-duplicates, reframe score, mood LUTs, silence cutter, stabilization advisor, upscale A/B, smart 16:9 crop, scene summary, quality score, Best-of-Day). Library: star ratings, quality badges, hover zoom, breadcrumbs, drag-drop folders, more-like-this. Player: snapshots + chapters. Movie Mixer: people-first face-aware framing. Appearance: 3 themes, 6 accents, 4 text sizes, Ctrl+K palette, F1 shortcuts, toasts, splash screen."
+  "version": "1.0.23",
+  "zip": "https://files.catbox.moe/g56gz6.zip",
+  "sha256": "bb66adb1db330b4943fdbb5311ea305197983699b5996d1664cb15588f2bb611",
+  "size": 146503736,
+  "notes": "New: FilmCraft Editor \u2014 a real pro multitrack NLE inside OrbitStudio, powered by the open-source FilmCraft engine (pure Rust, MIT/Apache-2.0): media bin, program monitor, multitrack timeline with razor cuts (linked audio follows), ripple delete, roll-trim by dragging edit points, clip drag-to-move, markers, undo/redo, timecode-accurate playback. Export straight from the timeline: H.264, H.265, ProRes, WAV, hardware encoding Auto (NVENC on RTX 5070 Ti) with live progress + cancel. Projects save as .fcproj. Engine ships as filmcraft_orbit_ffi.dll beside the exe; attribution in THIRD-PARTY-FILMCRAFT.txt."
 }
