@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "zip": "https://files.catbox.moe/g56gz6.zip",
-  "sha256": "bb66adb1db330b4943fdbb5311ea305197983699b5996d1664cb15588f2bb611",
-  "size": 146503736,
-  "notes": "New: FilmCraft Editor \u2014 a real pro multitrack NLE inside OrbitStudio, powered by the open-source FilmCraft engine (pure Rust, MIT/Apache-2.0): media bin, program monitor, multitrack timeline with razor cuts (linked audio follows), ripple delete, roll-trim by dragging edit points, clip drag-to-move, markers, undo/redo, timecode-accurate playback. Export straight from the timeline: H.264, H.265, ProRes, WAV, hardware encoding Auto (NVENC on RTX 5070 Ti) with live progress + cancel. Projects save as .fcproj. Engine ships as filmcraft_orbit_ffi.dll beside the exe; attribution in THIRD-PARTY-FILMCRAFT.txt."
+  "version": "1.0.24",
+  "zip": "https://gofile.io/d/Nfdi5z6i",
+  "sha256": "ce5079314526f115e78366eca93ddeae2360a048f6f718733e8065662a6f85fe",
+  "size": 147081273,
+  "notes": "Rename release: OrbitStudio is now OrbitStudio MUSE iPhone (display name only, no behavior changes)."
 }
